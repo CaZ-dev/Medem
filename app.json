@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "MedEm",
+    "slug": "medem",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "icon": "./icon.png",
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "MedEm needs photo permissions to upload prescriptions.",
+          "cameraPermission": "MedEm needs camera permissions to take photos of prescriptions."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "78bce0b9-3744-4948-b650-cba2954171b3"
+      }
+    },
+    "owner": "agampunchhi"
+  },
+  "name": "MedEm"
+}

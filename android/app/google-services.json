@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "704365856898",
+    "project_id": "medemapp4",
+    "storage_bucket": "medemapp4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704365856898:android:e56bd7942583a04fc70c9b",
+        "android_client_info": {
+          "package_name": "com.medem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704365856898-mn7d158e98e2957r9jb4fp96m2cri306.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1MxwM3fJom4XJNA7RSsu1Niq0je1VhD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704365856898-mn7d158e98e2957r9jb4fp96m2cri306.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704365856898-3khb5d3ge5b6b5t1vdjvbhi7q8k37cgq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.name.MedEm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
